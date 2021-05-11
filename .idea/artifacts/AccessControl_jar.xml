@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AccessControl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccessControl_jar</output-path>
+    <root id="archive" name="AccessControl.jar">
+      <element id="module-output" name="AccessControl" />
+    </root>
+  </artifact>
+</component>
